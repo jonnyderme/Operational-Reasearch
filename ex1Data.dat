@@ -1,0 +1,13 @@
+set Component := A B C D E F ;
+
+set Sequence := 1 2 3 4 5 6 ;
+
+set Procedure := Casting Grinding Connection ;
+
+param    ProcessTime :
+                           A    B    C    D    E    F    :=
+           Casting         3    6    3    5    5    7 
+           Grinding        5    4    2    4    4    5
+           Connection      5    2    4    6    3    6     ;
+           
+  

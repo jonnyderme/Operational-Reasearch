@@ -1,0 +1,46 @@
+set ProdLines  :=   Basic    ShowOff    Luxurious    NewBasic    NewShowOff ;
+set Models     :=   BasicM   ShowOffM    LuxuriousM  ;
+set ModelsLines:=   B_B    SO_SO    L_L    B_NB   SO_NB   B_NSO   SO_NSO   L_NSO ;     
+
+
+param   fixedCost  :=                     # fixed cost for every line
+         
+        Basic        2000
+        ShowOff      2000
+        Luxurious    2600
+        NewBasic     3400
+        NewShowOff   3700   ;
+        
+       
+       
+param   ProdCapability  :=
+         
+        Basic        1000
+        ShowOff      800
+        Luxurious    900
+        NewBasic     1600
+        NewShowOff   1800   ;        
+    
+         
+param   Profit :
+                      Basic         ShowOff       Luxurious    NewBasic     NewShowOff :=
+        BasicM         2             nan           nan          2.5          2.3
+        ShowOffM       nan           3             nan          3            3.5
+        LuxuriousM     nan           nan            5           nan          4.8      ;
+ 
+ 
+ 
+param                Demand    :=
+
+         BasicM       1400    
+         ShowOffM     1100
+         LuxuriousM    800    ;
+         
+         
+         
+param   DemandChange :      
+                     BasicM      ShowOffM         LuxuriousM   :=
+       BasicM        nan           0.3               0.05
+       ShowOffM      0             nan               0.1
+       LuxuriousM    0              0                nan      ;
+  
