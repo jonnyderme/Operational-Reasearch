@@ -15,6 +15,14 @@ Electronics and Computers Department
 # Computational Assignment
 
 ---
+## 📚 Table of Contents
+- [🛠️ Computational Assignment – Autokinisi S.A.](#️-computational-assignment--autokinisi-sa)
+- [🤖 Bibliographical Assignment – Autonomous Mobile Robots](#-bibliographical-assignment--autonomous-mobile-robots)
+- [📁 Repository Structure](#-repository-structure)
+
+---
+
+
 
 ## Company: Autokinisi S.A.
 
@@ -57,11 +65,11 @@ Some unmet demand may shift to more premium models based on customer behavior.
 
 ## File Structure
 
-- `scheduling.py` – Component sequencing optimizer  
-- `production_planning.py` – Line upgrade and production allocation model  
+- `exercise1ORProj2023.mod` – Component sequencing optimizer  
+- `exercise2ORProj2023.mod` – Line upgrade and production allocation model  
 - `README.md` – Project documentation  
-- `data/` – Input data files (if applicable) for Exercise 1
-- `data/` – Input data files (if applicable) for Exercise 2
+- `ex1Data/` – Input data files (if applicable) for Exercise 1
+- `ex2Data/` – Input data files (if applicable) for Exercise 2
 
 ---
 
