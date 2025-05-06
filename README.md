@@ -61,5 +61,5 @@ Some unmet demand may shift to more premium models based on customer behavior.
 - `production_planning.py` – Line upgrade and production allocation model  
 - `README.md` – Project documentation  
 - `data/` – Input data files (if applicable) for Exercise 1
-- - `data/` – Input data files (if applicable) for Exercise 2
+- `data/` – Input data files (if applicable) for Exercise 2
 
