@@ -63,3 +63,25 @@ Some unmet demand may shift to more premium models based on customer behavior.
 - `data/` – Input data files (if applicable) for Exercise 1
 - `data/` – Input data files (if applicable) for Exercise 2
 
+---
+
+# Bibliographical Assignment
+
+---
+# 🤖 Autonomous Mobile Robots – Presentation 
+ 
+
+## 🧭 Overview  
+Presentation on AMRs in intralogistics and smart environments.  
+Topics include evolution from AGVs, path planning, task scheduling, and future research.
+
+## ⚙️ Key Topics  
+- A* / D*Lite algorithms  
+- MILP / Network Flow modeling  
+- Decentralized navigation  
+- SLAM & AI-driven autonomy  
+
+## 📁 Files  
+- `autonomus mobile robots.pdf` – Final presentation  
+- `README.md` – Project summary  
+
