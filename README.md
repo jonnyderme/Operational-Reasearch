@@ -1,9 +1,16 @@
 # Operational-Reasearch
+---
+# 🧠 Operational Research Assignments (2023)
+Assignments for the "Operational Research" Course  
+Faculty of Engineering, AUTh  
+School of Electrical and Computer Engineering  
+Electronics and Computers Department
 
-## Aristotle University of Thessaloniki  
-**Department of Electrical and Computer Engineering**  
-**Course: Operational Research**  
-**Assignment Submission Date: 03/06/2023**
+📚 *Course:* Operational Research  
+🏛️ *Faculty:* AUTh - School of Electrical and Computer Engineering  
+📅 *Semester:* 8th Semester, 2024–2025
+
+---
 
 # Computational Assignment
 
